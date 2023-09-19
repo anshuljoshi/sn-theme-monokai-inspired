@@ -1,0 +1,13 @@
+{
+    "author": "Anshul Joshi",
+    "name": "sn-theme-monokai-inspired",
+    "version": "0.1.0",
+    "main": "dist/dist.css",
+    "sn": {
+      "main": "dist/dist.css"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/anshuljoshi/sn-theme-monokai-inspired.git"
+    }
+}
